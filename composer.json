@@ -1,6 +1,7 @@
 {
     "name": "martinsdeee/xlayout",
-    "description": "",
+    "description": "Laravel 4 xLayout Package",
+    "license": "MIT",
     "authors": [
         {
             "name": "Martins Dumbris",
